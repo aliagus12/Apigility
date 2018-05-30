@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Apigility Skeleton Application
 ==============================
 
@@ -250,3 +251,7 @@ $ composer cs-fix
 # Run PHPUnit tests:
 $ composer test
 ```
+=======
+# Apigility
+dapat digunakan untuk qr code absensi
+>>>>>>> 3fa031439925b19cb38ebc4af3bd1ae2f52e9c7c
